@@ -6,6 +6,7 @@ import json
 
 # 爬取喜马拉雅的音乐的类
 # https://blog.csdn.net/steadyhzc/article/details/99708520
+# 这个接口可以直接获取 http://m.ximalaya.com/m-revision/page/album/queryAlbumPage/399914
 class ximalaya(object):
 
     def __init__(self):
